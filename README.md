@@ -1,7 +1,7 @@
 # 👋 About Me:
 Hi there! I'm Soumya Khandelwal 👋  
 🚀 **About Me**  
-I'm a 2nd-year B.Tech student passionate about web development, software engineering, and problem-solving. My journey started with learning C and C++, and I've since dived into HTML, CSS, JavaScript, and React. Currently, I'm exploring backend development with PHP and integrating it with React.
+I'm a 3rd-year B.Tech student passionate about web development, software engineering, and problem-solving. My journey started with learning C and C++, and I've since dived into HTML, CSS, JavaScript, and React. Currently, I'm exploring backend development with PHP and integrating it with React.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com)
