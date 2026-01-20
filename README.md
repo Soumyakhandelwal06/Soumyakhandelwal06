@@ -1,7 +1,11 @@
 # 👋 About Me:
 Hi there! I'm Soumya Khandelwal 👋  
 🚀 **About Me**  
-I'm a 3rd-year B.Tech student passionate about web development, software engineering, and problem-solving. My journey started with learning C and C++, and I've since dived into HTML, CSS, JavaScript, and React. Currently, I'm exploring backend development with PHP and integrating it with React.
+Hi there! I'm Soumya Khandelwal, a pre-final year BTech student at JIIT, Noida, specializing in Computer Science and Engineering.
+
+I'm deeply passionate about full-stack development and competitive programming, with a strong inclination toward solving real-world problems through code. Over the years, I've built a solid foundation in computer science fundamentals and problem-solving, having solved 400+ problems across platforms like LeetCode, Codeforces, and CodeChef.
+
+My current tech stack includes Next.js, Typescript, React, Tailwind CSS, Node.js, Express.js, MongoDB, Go, PHP, and C/C++, along with core web technologies like HTML, CSS, and JavaScript. I'm particularly interested in building scalable web applications, exploring system design, and diving deeper into backend development with Go and distributed systems
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com)
